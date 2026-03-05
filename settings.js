@@ -16,6 +16,6 @@ module.exports = {
   PORT: process.env.PORT || 3000,
   
   //Your GitHub username(make sure you've forked this bot without changing the name)
-  GITHUB_USERNAME: process.env.GITHUB_USERNAME || '',
+  janabianonymous: process.env.janabianonymous || '',
  
 };
